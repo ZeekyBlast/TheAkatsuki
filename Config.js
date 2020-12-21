@@ -1,7 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.dbname = exports.owners = exports.prefix = exports.token = void 0;
-exports.token = "NzkwNjU0NTMyMTE5MTY3MDA3.X-Dwag.n2z0GAx729ODDoUzR962rBTzXsk";
 exports.prefix = ";";
 exports.owners = ['460458132313735178', '673480965925896202'];
 exports.dbname = "RoMcDB";
